@@ -6,3 +6,4 @@ const menuOptions = [
     { name: 'Big Vegano', price: 55, vegan: true, src: './img/xvegan.png' },
     { name: 'X-Vegan', price: 45, vegan: true, src: './img/monstruoso-vegan.png' },
     ]
+    
